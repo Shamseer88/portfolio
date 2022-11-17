@@ -26,6 +26,7 @@
                 text-decoration: none;
                 color: inherit;
                 margin-right: 40px;
+                
             }
 
             .itemContainer {
@@ -47,7 +48,8 @@
         .right {
 
             .hamburger {
-                width: 31px;
+                overflow: hidden;
+                width: 35px;
                 height: 25px;
                 display: flex;
                 flex-direction: column;
